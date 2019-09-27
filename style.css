@@ -41,11 +41,12 @@ button a {
 }
 
 .icon {
-	
-	height:200px ;
-	width:400px	;
-	margin-left: 100px;
-	
+    height: 200px;
+    width: 400px;
+    margin-left: 100px;
+    background-image: url(photos/capp.PNG);
+	background-position: center;
+	background-size: cover
 }
 
 .icon2 {
@@ -68,6 +69,15 @@ header p {
     background-image: url(photos/Capture.PNG);
 	background-position: center;
 	background-size: cover
+}
+
+.icon3 {
+    height: 200px;
+    width: 400px;
+    margin-left: 100px;
+    background-image: url(photos/por.PNG);
+    background-position: center;
+    background-size: cover
 }
 
 nav ul {
